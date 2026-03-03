@@ -1,0 +1,23 @@
+{
+  "name": "projmanagement",
+  "version": "1.0.0",
+  "description": "project management application",
+  "keywords": [
+    "udemy",
+    "course"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "kashishaggarwal991-stack"
+  },
+  "license": "ISC",
+  "author": "Kashish",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.8.1"
+  }
+}
